@@ -3,7 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/SelAssets/jars/ashot-1.5.4.jar"/>
-	<classpathentry kind="lib" path="C:/SelAssets/jars/browsermob-core-2.1.5.jar"/>
 	<classpathentry kind="lib" path="C:/SelAssets/jars/FILE_utils-commons-io-2.6.jar"/>
 	<classpathentry kind="lib" path="C:/SelAssets/jars/FILE_utils-commons-io-2.6-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/SelAssets/jars/FILE_utils-commons-io-2.6-sources.jar"/>
@@ -45,5 +44,23 @@
 	<classpathentry kind="lib" path="C:/SelAssets/jars/sel3_12_httpcore-4.4.6.jar"/>
 	<classpathentry kind="lib" path="C:/SelAssets/jars/sel3_12_okhttp-3.9.1.jar"/>
 	<classpathentry kind="lib" path="C:/SelAssets/jars/sel3_12_okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/bcpkix-jdk15on-1.58.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/bcprov-jdk15on-1.58.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/browsermob-core-2.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/dnsjava-2.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/error_prone_annotations-2.0.18.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/guava-23.0-android.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/jackson-annotations-2.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/jackson-core-2.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/jackson-databind-2.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/jzlib-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/littleproxy-1.1.0-beta-bmp-17.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/mitm-2.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/netty-all-4.0.51.Final.jar"/>
+	<classpathentry kind="lib" path="C:/SelAssets/jars/GTM/slf4j-api-1.7.25.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
